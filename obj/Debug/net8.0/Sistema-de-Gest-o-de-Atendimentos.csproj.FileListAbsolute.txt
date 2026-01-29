@@ -1,0 +1,15 @@
+C:\Users\grautecnico\Desktop\Sistema-de-Gest-o-de-Atendimentos\bin\Debug\net8.0\Sistema-de-Gest-o-de-Atendimentos.exe
+C:\Users\grautecnico\Desktop\Sistema-de-Gest-o-de-Atendimentos\bin\Debug\net8.0\Sistema-de-Gest-o-de-Atendimentos.deps.json
+C:\Users\grautecnico\Desktop\Sistema-de-Gest-o-de-Atendimentos\bin\Debug\net8.0\Sistema-de-Gest-o-de-Atendimentos.runtimeconfig.json
+C:\Users\grautecnico\Desktop\Sistema-de-Gest-o-de-Atendimentos\bin\Debug\net8.0\Sistema-de-Gest-o-de-Atendimentos.dll
+C:\Users\grautecnico\Desktop\Sistema-de-Gest-o-de-Atendimentos\bin\Debug\net8.0\Sistema-de-Gest-o-de-Atendimentos.pdb
+C:\Users\grautecnico\Desktop\Sistema-de-Gest-o-de-Atendimentos\obj\Debug\net8.0\Sistema-de-Gest-o-de-Atendimentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grautecnico\Desktop\Sistema-de-Gest-o-de-Atendimentos\obj\Debug\net8.0\Sistema-de-Gest-o-de-Atendimentos.AssemblyInfoInputs.cache
+C:\Users\grautecnico\Desktop\Sistema-de-Gest-o-de-Atendimentos\obj\Debug\net8.0\Sistema-de-Gest-o-de-Atendimentos.AssemblyInfo.cs
+C:\Users\grautecnico\Desktop\Sistema-de-Gest-o-de-Atendimentos\obj\Debug\net8.0\Sistema-de-Gest-o-de-Atendimentos.csproj.CoreCompileInputs.cache
+C:\Users\grautecnico\Desktop\Sistema-de-Gest-o-de-Atendimentos\obj\Debug\net8.0\Sistema-de-Gest-o-de-Atendimentos.sourcelink.json
+C:\Users\grautecnico\Desktop\Sistema-de-Gest-o-de-Atendimentos\obj\Debug\net8.0\Sistema-de-Gest-o-de-Atendimentos.dll
+C:\Users\grautecnico\Desktop\Sistema-de-Gest-o-de-Atendimentos\obj\Debug\net8.0\refint\Sistema-de-Gest-o-de-Atendimentos.dll
+C:\Users\grautecnico\Desktop\Sistema-de-Gest-o-de-Atendimentos\obj\Debug\net8.0\Sistema-de-Gest-o-de-Atendimentos.pdb
+C:\Users\grautecnico\Desktop\Sistema-de-Gest-o-de-Atendimentos\obj\Debug\net8.0\Sistema-de-Gest-o-de-Atendimentos.genruntimeconfig.cache
+C:\Users\grautecnico\Desktop\Sistema-de-Gest-o-de-Atendimentos\obj\Debug\net8.0\ref\Sistema-de-Gest-o-de-Atendimentos.dll
