@@ -1,0 +1,5 @@
+C:\Users\grautecnico\HelpDesk\Sistema-de-Gest-o-de-Atendimentos\obj\Debug\net8.0\HelpDesk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grautecnico\HelpDesk\Sistema-de-Gest-o-de-Atendimentos\obj\Debug\net8.0\HelpDesk.AssemblyInfoInputs.cache
+C:\Users\grautecnico\HelpDesk\Sistema-de-Gest-o-de-Atendimentos\obj\Debug\net8.0\HelpDesk.AssemblyInfo.cs
+C:\Users\grautecnico\HelpDesk\Sistema-de-Gest-o-de-Atendimentos\obj\Debug\net8.0\HelpDesk.csproj.CoreCompileInputs.cache
+C:\Users\grautecnico\HelpDesk\Sistema-de-Gest-o-de-Atendimentos\obj\Debug\net8.0\HelpDesk.sourcelink.json
