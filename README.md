@@ -1,2 +1,2 @@
-# Sistema-de-Gest-o-de-Atendimentos
+# Sistema-de-Gestão-de-Atendimentos
 Em breve..
