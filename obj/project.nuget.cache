@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lFJjVFGVvNX++UpbNhMheF03cqT6LdNVp/qu6jaANP01v2bTPyV646Cpc9736VN18PgK6Vzjqlti0hewHFVcgw==",
+  "dgSpecHash": "dmGP5FCyLceMn/sYgkPeEk2c+CnohQYy/cJL8DOPcO+BpgRD4T/6nn46dXsfcFZoHHEnBa2QFwyB4Y+e9E97TQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\grautecnico\\HelpDesk\\Sistema-de-Gest-o-de-Atendimentos\\HelpDesk.csproj",
+  "projectFilePath": "C:\\Users\\grautecnico\\HelpDesk\\HelpDesk.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
